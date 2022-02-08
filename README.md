@@ -1,8 +1,8 @@
-# react_project
+#タイトル； react_project
 
-React の入門として作成したレポジトリ
+## React の入門として作成したレポジトリ
 
-Dog API を使用した画像ギャラリーという簡単な web サイト
+### 作成イメージ：Dog API を使用した画像ギャラリーという簡単な web サイト
 参考：https://zenn.dev/likr/articles/6be53ca64f29aa035f07
 
 参考サイトの流れに沿って、進めていき、わからない単語が出てきたら随時調べて、README に書き込む
