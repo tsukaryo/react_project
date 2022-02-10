@@ -9,5 +9,5 @@
 
 エラー <br>
 1."git push origin main"ができない <br>
-└git fetch originと git merge originが必要（リモートレポジトリとローカルレポジトリの内容が違うため） <br>
+└git fetch originと git merge origin main とgit pull origin mainが必要（リモートレポジトリとローカルレポジトリの内容が違うため） <br>
 参考：https://docs.github.com/ja/get-started/using-git/dealing-with-non-fast-forward-errors <br>
